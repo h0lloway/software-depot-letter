@@ -1,3 +1,3 @@
-# software-depot-letter
+HTML письмо для email рассылки (Software depot)
 
-https://h0lloway.github.io/software-depot-letter/
+Смотреть - h0lloway.github.io/software-depot-letter/
